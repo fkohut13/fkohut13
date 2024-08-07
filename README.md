@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, i'm Fabiano Kohut</h1>
-<h3 align="center">I'm a 20-year-old, passionate and enthusiastic Machine Learning enthusiast, particularly in Convolutional Neural Networks (CNNs). Currently studying at Universidade Positivo, Curitiba, Brazil. I'm available for various positions, including Quality Engineer, Software Engineer, and Data Scientist.</h3>
+<h3 align="center">I'm a 20-year-old, Student and Machine learning enthusiast, specifically in convolutional neural networks for medical imaging, Currently studying at Universidade Positivo, Curitiba, Brazil. I'm available for various positions, including Quality Engineer, Software Engineer, and Data Scientist.</h3>
 
 - 🔭 I’m currently working on [Pneumonia Classificator](https://github.com/fkohut13/PneumoniaClassificator)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kohutyt@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OgnZNw5qzjbcTqi0M69nLakj7tYkcE09/view?usp=drive_link](https://drive.google.com/file/d/1OgnZNw5qzjbcTqi0M69nLakj7tYkcE09/view?usp=drive_link)
+- 📄 Know about my experiences.. [Here!](https://drive.google.com/file/d/1OgnZNw5qzjbcTqi0M69nLakj7tYkcE09/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
